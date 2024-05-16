@@ -41,7 +41,6 @@ int main(int argc, char *argv[]){
             sum = 0;
         }
         }
-    ch[n] = '\0';
     len = n;
 
     printf("After sort.\n");
